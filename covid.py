@@ -15,3 +15,4 @@ def fetch_url(url, fname):
 
 fname =  'test.csv'
 fetch_url(url, fname)
+

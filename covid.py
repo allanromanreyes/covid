@@ -10,3 +10,10 @@ def fetch_url(url, fname):
     data = fin.read()
     with open(fname, mode='wb') as fout:
         fout.write(data)
+<<<<<<< HEAD
+=======
+
+fname =  'test.csv'
+fetch_url(url, fname)
+
+>>>>>>> b7f8a704ae0493c16b410ad19c82c2335be44ad2
